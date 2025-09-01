@@ -2,7 +2,7 @@
 ### Task-1: Template to Blade Conversion → 25%
 
 Presentation of the project (video) 
-![presentation]()
+![presentation](https://drive.google.com/file/d/1wH01frWOwDTZHf8FJ47fVSARVsi0jyr2/view?usp=sharing)
 
 · You will be provided with an HTML/Bootstrap template. Convert this template into a Laravel Blade layout with proper structure (master layout, header, footer, partials, includes).
 · Template link: [Bootstrap Template](https://startbootstrap.com/theme/personal)
